@@ -1,7 +1,7 @@
 ---
 title: Home
 banner:
-  title: This is Construct
+  title: This is Amelie Hooker Watson
   subtitle: |-
     Aliquam scelerisque rutrum nec donec lorem ipsum dolor sit amet  
     porttitor ornare tempus dignissim felis magna commodo.
