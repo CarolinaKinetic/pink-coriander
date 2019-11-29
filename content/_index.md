@@ -3,8 +3,7 @@ title: Home
 banner:
   title: This is Amelie Hooker Watson
   subtitle: |-
-    Aliquam scelerisque rutrum nec donec lorem ipsum dolor sit amet  
-    porttitor ornare tempus dignissim felis magna commodo.
+    Chiropractor. Teacher. Photographer.
   show_scroll_button: true
 sections:
   - type: icons
